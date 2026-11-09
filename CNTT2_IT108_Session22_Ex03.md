@@ -22,15 +22,3 @@ Trước khi mình chạy lệnh bạn vừa đưa, hãy giải thích:
 4. Có cách khác an toàn hơn, không cần sudo không?
 Nếu bạn không chắc chắn thì hãy nói thẳng là không chắc, đừng đoán.
 ```
-
-## 4. Quy định nộp bài (GitHub)
-
-> *(Ảnh đề bị cắt ở phần này. Em xem lại đúng định dạng thầy/cô yêu cầu rồi đặt tên theo đó.)*
-
-Gợi ý cấu trúc nếu đề không nói gì thêm:
-
-```
-IT101_Bai3/
-├── README.md        (báo cáo IPO)
-└── prompt_hoi_nguoc.md
-```
